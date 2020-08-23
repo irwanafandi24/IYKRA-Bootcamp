@@ -25,5 +25,5 @@ Want to know about iykra? <strong>jump to</strong> <a href="https://iykra.com/">
 
 ```bash
 This reposity status "ON PROGRESS", I will update it every week
-August 12, 2020
+August 23, 2020
 ```
