@@ -1,0 +1,4 @@
+Data_Manipultaion_with_Python used "transaction" data
+EDA used "Ritz_Jager_Data" data
+Mini_case used "data" data
+Statistic used "insurance" data

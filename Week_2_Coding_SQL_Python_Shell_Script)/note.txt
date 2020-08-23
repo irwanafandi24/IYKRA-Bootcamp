@@ -1,0 +1,10 @@
+First, you have to restore the dvdrental data on DBeaver (optionnal)
+But you need to extract the zip file to .tar
+
+How to do that, just follow this video:
+website link : https://www.postgresqltutorial.com/postgresql-sample-database/
+video link   : https://www.youtube.com/watch?v=8bENMPsFepg
+
+It will be easier if you use Postgree + dbeaver, download in this link
+PostgreSQL : https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+SQL client : https://dbeaver.io/download/
